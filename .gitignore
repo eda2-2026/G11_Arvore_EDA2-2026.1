@@ -1,2 +1,5 @@
 .venv
 /.venv12
+/core/__pycache__
+/views/__pycache__
+/visualizer/__pycache__
