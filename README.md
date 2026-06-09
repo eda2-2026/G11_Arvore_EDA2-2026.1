@@ -83,8 +83,7 @@ O Modo Desafio intercepta a requisição antes de mostrar a resposta, injeta em 
 
 ## Link da Gravação
 
-*(Adicione o link do vídeo de explicação no YouTube)*
-[Gravação](https://youtu.be/...)
+[Gravação](https://www.youtube.com/playlist?list=PLy6hlCyBC58qMHN8_tbyLqvu0yux2FBq5)
 
 ---
 
